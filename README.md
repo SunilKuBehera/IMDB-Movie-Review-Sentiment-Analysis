@@ -1,4 +1,4 @@
-# IMDB Movie Review Sentiment Analysis |
+# IMDB Movie Review Sentiment Analysis | [LINK](https://imdb-movie-review-analyzer.streamlit.app/)
 
 Lightweight Streamlit web app that predicts the sentiment (positive / negative) of IMDB movie reviews using a trained Keras RNN model.
 
